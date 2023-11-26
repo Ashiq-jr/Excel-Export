@@ -1,0 +1,19 @@
+/* src/app/top-nav/top-nav.component.css */
+
+.navbar {
+    background-color: #343a40; /* Darker background color */
+  }
+  
+  .navbar-brand {
+    font-size: 1.8rem;
+    font-family: 'Roboto', sans-serif;
+}
+  
+  .navbar-nav .nav-link {
+    color: #ffffff; /* White text color for links */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #f8f9fa; /* Lighter text color on hover */
+  }
+  
